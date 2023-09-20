@@ -1,7 +1,7 @@
 from snake import Snake
 from food import Food
 from scoreboard import Score
-from bordes import Borders
+from borders import Borders
 import turtle
 import time
 
